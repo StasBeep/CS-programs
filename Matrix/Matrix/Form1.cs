@@ -17,19 +17,26 @@ namespace Matrix
             InitializeComponent();
         }
 
+        Class2 xcv = new Class2();
+
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            xcv.n = Convert.ToInt32(textBox1.Text);
+            xcv.InpZ();
+            xcv.OutP(listBox1);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            xcv.n = Convert.ToInt32(textBox1.Text);
+            xcv.InpD();
+            xcv.OutP(listBox1);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+            xcv.metod();
+            xcv.OutP(listBox2);
         }
     }
 }
