@@ -1,0 +1,10 @@
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\bin\Debug\Laba12Var24.exe.config
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\bin\Debug\Laba12Var24.exe
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\bin\Debug\Laba12Var24.pdb
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.Form1.resources
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.Properties.Resources.resources
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.csproj.GenerateResource.cache
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.exe
+C:\Users\Stanislav\source\repos\Laba12Var24\Laba12Var24\obj\Debug\Laba12Var24.pdb
