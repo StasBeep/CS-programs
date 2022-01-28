@@ -1,0 +1,7 @@
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\bin\Debug\laboratorywork2Variant27.exe.config
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\bin\Debug\laboratorywork2Variant27.exe
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\bin\Debug\laboratorywork2Variant27.pdb
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\obj\Debug\laboratorywork2Variant27.csprojAssemblyReference.cache
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\obj\Debug\laboratorywork2Variant27.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\obj\Debug\laboratorywork2Variant27.exe
+C:\Users\Stanislav\Desktop\git\CS-programs\laboratorywork2Variant27\laboratorywork2Variant27\obj\Debug\laboratorywork2Variant27.pdb
